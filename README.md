@@ -8,7 +8,7 @@ curl -o ~/.zshrc https://github.com/DarthGexe/dotfiles/raw/main/.zshrc
 - Tener Zsh configurado como shell predeterminado.
 - Instalar [powerlevel10k](https://github.com/romkatv/powerlevel10k).
 
-# Configuracion para neovim
+# Configuración para Neovim
 
 ### Crea el directorio si no existe
 ```bash
